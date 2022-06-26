@@ -145,11 +145,9 @@
 
 
 
-### 贡献者
-
-
-
-
-
+### 社群贡献者
+<div style="text-align:center:width:100px;">
+	<a href="https://github.com/nainiushuang" style="border-radius:50%" target="_blank" rel="noopener noreferrer"><img width="30" src="https://avatars.githubusercontent.com/u/105758975?s=88&u=bfee7c7c365a24caa3a23eb978aef675b46ddabe&v=4" alt="Vue logo"></a>
+</div>
 
 Copyright (c) 2022-present,CrazySport.com
